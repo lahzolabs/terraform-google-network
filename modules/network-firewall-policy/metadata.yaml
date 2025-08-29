@@ -179,6 +179,6 @@ spec:
       - iam.googleapis.com
     providerVersions:
       - source: hashicorp/google-beta
-        version: ">= 6.28, < 7"
+        version: "~> 7.0.1"
       - source: hashicorp/google
-        version: ">= 6.28, < 7"
+        version: "~> 7.0.1"
